@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DisableFocusChecking
-// @author       Delta
+// @author       XDelta
 // @description  Webpages should always think they are in focus when using this.
 // @version      0.1.1
 // @namespace    https://github.com/XDelta/UserScripts/
