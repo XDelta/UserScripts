@@ -5,8 +5,8 @@
 // @version      0.1.0
 // @namespace    https://github.com/XDelta/UserScripts/
 // @supportURL   https://github.com/XDelta/UserScripts/issues
-// @updateURL    https://github.com/XDelta/UserScripts/MergeWithPreferredEmail/MergeWithPreferredEmail.meta.js
-// @downloadURL  https://github.com/XDelta/UserScripts/MergeWithPreferredEmail/MergeWithPreferredEmail.user.js
+// @updateURL    https://github.com/XDelta/UserScripts/raw/main/MergeWithPreferredEmail/MergeWithPreferredEmail.meta.js
+// @downloadURL  https://github.com/XDelta/UserScripts/raw/main/MergeWithPreferredEmail/MergeWithPreferredEmail.user.js
 // @match        https://github.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        none
