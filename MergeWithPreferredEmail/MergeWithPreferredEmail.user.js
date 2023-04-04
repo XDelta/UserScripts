@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         MergeWithPreferredEmail
 // @author       XDelta
-// @description  Attempt to swap a merge to your preferred email to avoid accidently merging with another email address on your account.
+// @description  Attempt to swap a merge on github to your preferred email to avoid accidently merging with another email address on your account.
 // @version      0.1.0
 // @namespace    https://github.com/XDelta/UserScripts/
 // @supportURL   https://github.com/XDelta/UserScripts/issues
