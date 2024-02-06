@@ -14,4 +14,8 @@ Attempt to swap a merge on github to your preferred email to avoid accidently me
 Remember to edit the script and set your preferred email.<br>
 [Install the user.js](https://github.com/XDelta/UserScripts/raw/main/MergeWithPreferredEmail/MergeWithPreferredEmail.user.js) with automatic updates.*<br>
 
+### [QobuzVolumeControl]
+Adds a volume control to the Qobuz audio player.<br>
+[Install the user.js](https://raw.githubusercontent.com/XDelta/UserScripts/main/QobuzVolumeControl/QobuzVolumeControl.user.js) with automatic updates.*<br>
+
 *Automatic updates from [Tampermonkey](https://www.tampermonkey.net/) extension, other loaders may vary.
