@@ -7,12 +7,12 @@ Install [Tampermonkey](https://www.tampermonkey.net/) for your browser of choice
 
 ### [DisableFocusCheck]
 Webpages should always think they are in focus when using this.<br>
-[Install the user.js](https://raw.githubusercontent.com/XDelta/UserScripts/main/DisableFocusCheck/DisableFocusCheck.user.js) with automatic updates.*<br>
+[Install the .user.js](https://raw.githubusercontent.com/XDelta/UserScripts/main/DisableFocusCheck/DisableFocusCheck.user.js) with automatic updates.*<br>
 
 ### [MergeWithPreferredEmail]
 Attempt to swap a merge on github to your preferred email to avoid accidently merging with another email address on your account.<br>
 Remember to edit the script and set your preferred email.<br>
-[Install the user.js](https://github.com/XDelta/UserScripts/raw/main/MergeWithPreferredEmail/MergeWithPreferredEmail.user.js) with automatic updates.*<br>
+[Install the .user.js](https://github.com/XDelta/UserScripts/raw/main/MergeWithPreferredEmail/MergeWithPreferredEmail.user.js) with automatic updates.*<br>
 
 ### [QobuzVolumeControl]
 Adds a volume control to the Qobuz audio player.<br>
